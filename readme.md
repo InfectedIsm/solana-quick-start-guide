@@ -1,3 +1,5 @@
+[🔗 link to the blog post](https://another-infected-blog.vercel.app/blog/solana-quick-start#4-programs-and-instructions)
+
 ![Enter the Fast Lane: The Essential to Start Auditing Solana Program](images/solana_car_final.png)
 
 1. [Solana](#1-solana)
